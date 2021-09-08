@@ -1,0 +1,3 @@
+I created a new json-server project in my github (https://github.com/JarSeal/jays-sons-server-deploy)
+and added a GitHub Action to it. Whenever the main branch gets a push, this action deploys a json-server
+into a Heroku application called docker-security-forsman1 (https://docker-security-forsman1.herokuapp.com/).
