@@ -1,0 +1,14 @@
+Before the changes size (from the 'docker images' list):
+66.3MB
+
+After the changes size:
+57.9MB
+
+Also added a non root user to run json-server and 
+executed only one RUN command in Dockerfile.
+
+I did these changes for two of my repositories:
+- https://github.com/JarSeal/jays-sons-server
+- https://github.com/JarSeal/jays-sons-server-deploy
+
+(I left the old Docker file into the repository as well, named 'DockerfileOld')
