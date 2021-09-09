@@ -1,0 +1,11 @@
+Before the changes sizes (from the 'docker images' list):
+    - frontend: 239MB
+    - backend: 23.7MB
+
+After the changes sizes:
+    - frontend: 24.1MB
+    - backend: 23.7MB
+    (I had done the multi-stage build for the backend
+    earlier for exercise 3.5 as instructed in the
+    Google Docker best practices video,
+    which was actually before the exercise 3.4)
