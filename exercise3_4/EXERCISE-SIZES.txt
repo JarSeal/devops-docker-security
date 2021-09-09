@@ -1,0 +1,7 @@
+Before the changes sizes (from the 'docker images' list):
+    - frontend: 563MB
+    - backend: 447MB
+
+After the changes sizes:
+    - frontend: 339MB
+    - backend: 320MB
